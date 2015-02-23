@@ -14,10 +14,12 @@ for lineNum in xrange( 0, len( lines ) ):
     if len( lines[ lineNum ] ) > 120:
         print "Line ", lineNum+1, " is greater than 120 charecters"
     
-# Lines with trailing white-space
+# Lines with trailing white-space or tabs
 for lineNum in xrange( 0, len( lines ) ):
-    if lines[ lineNum ].endswith(' '):
+    if lines[ lineNum ].endswith(' \n'):
         print "Line ", lineNum+1, " has trailing whitespace"
+    if lines[ lineNum ].endswith('\t\n'):
+        print "Line ", lineNum+1, " has trailing tabspace"
 
 # Single whitespace before "{"
 for lineNum in xrange( 0, len( lines ) ):
