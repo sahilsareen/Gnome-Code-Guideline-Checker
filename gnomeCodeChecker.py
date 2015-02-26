@@ -37,7 +37,7 @@ for lineNum in xrange( 0, len( lines ) ):
     indexes = find( lines[ lineNum ], '(' )
     for index in indexes:
         if index > 1:
-            if lines[ lineNum ][ index - 1 ] != ' ' and lines[ lineNum ][ index - 1 ] not in [ '_', '(', '&', '*', '\t' ]:
+            if lines[ lineNum ][ index - 1 ] != ' ' and lines[ lineNum ][ index - 1 ] not in [ '_', '(', '&', '*', '-', '(', '!','\t' ]:
                 print "Line ", lineNum+1, " missing whitespace before ("
             elif lines[ lineNum ][ index - 2 ] == ' ' and lines[ lineNum ][ index - 1 ] not in [ '_', '(' ] \
                     and not ( lines[ lineNum ].startswith(" *") or lines[ lineNum ].startswith("#") or
