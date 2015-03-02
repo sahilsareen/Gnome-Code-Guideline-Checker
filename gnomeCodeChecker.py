@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 # script to check if any gnome coding guidelines are violated
 import sys
 import re
