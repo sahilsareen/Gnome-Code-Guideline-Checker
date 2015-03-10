@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
-# script to check if any gnome coding guidelines are violated
+# script to check if any GNOME coding guidelines are violated
+# Copyright (C) 2015 Sahil Sareen (ssareen [ AT ] gnome [ DOT ] org)
 import sys
 import re
 
