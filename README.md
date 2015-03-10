@@ -41,6 +41,9 @@ cp Gnome-Code-Guideline-Checker/scripts/pre-commit to YOUR_PROJECT/scripts/
 (Add in autogen.sh) chmod +x YOUR_PROJECT/.git/hooks/pre-commit
 ```
 
+EXAMPLE
+=======
+https://git.gnome.org/browse/gnome-chess/commit/?id=8be49c2b4d1b2be921071753cb7697fcfaa77653
 
   BUGS
 ========
