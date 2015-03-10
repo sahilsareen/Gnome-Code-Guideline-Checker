@@ -27,7 +27,7 @@ cp Gnome-Code-Guideline-Checker/scripts/pre-commit to YOUR_PROJECT/.git/hooks/
 chmod +x YOUR_PROJECT/.git/hooks/pre-commit
 ```
 
-| For a project: |
+| For a project |
 ------------------
 * Add a folder called scripts to YOUR_PROJECT
 * Copy the pre-commit hook to YOUR_PROJECT/scripts
