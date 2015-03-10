@@ -1,15 +1,15 @@
 ==================================
-  Gnome-Code-Guideline-Checker 
+  Gnome Code Guideline Checker 
 ==================================
 
 This script is useful to check if your code complies with the GNOME guidelines.
 
 This git hook checks errors most people overlook:
-     1. Line width,
-     2. Lines with,
-     3. Trailing whitespaces,
-     4. Trailing tabspaces,
-     5. Whitespace checks around brackets.
+- Line width,
+- Lines with,
+- Trailing whitespaces,
+- Trailing tabspaces,
+- Whitespace checks around brackets.
 
 This does NOT check the block structures(like if-else),
 as most editors do that for you.(I assume you don’t mess around :P)
