@@ -14,7 +14,7 @@ This git hook checks errors most people overlook:
 This does NOT check the block structures(like if-else),
 as most editors do that for you.(I assume you don’t mess around :P)
 
-  HOW TO SETUP
+  How to setup
 ================
 | For personal workspace |
 --------------------------
