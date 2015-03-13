@@ -5,9 +5,8 @@ This script is useful to check if your code complies with the GNOME guidelines.
 
 This git hook checks errors most people overlook:
 - Line width,
-- Lines with,
-- Trailing whitespaces,
-- Trailing tabspaces,
+- Lines with trailing whitespaces,
+- Lines with trailing tabspaces,
 - Whitespace checks around brackets.
 
 This does NOT check the block structures(like if-else),
