@@ -1,4 +1,12 @@
-  Gnome Code Guideline Checker 
+  *Currently in use by all GNOME Games 
+=======================================
+
+- This script is currently in use by GNOME libgames-support module which is a support module common to all games.
+- Is basically a guideline checker pre-commit hook for all GNOME games.
+
+See: https://github.com/GNOME/libgames-support/commit/a6c47620189f0057d7dfb1659274e7860268425e
+
+GNOME Code Guideline Checker 
 ==================================
 
 This script is useful to check if your code complies with the GNOME guidelines.
