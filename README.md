@@ -55,3 +55,7 @@ https://git.gnome.org/browse/gnome-chess/commit/?id=8be49c2b4d1b2be921071753cb76
   BUGS
 ========
 Report bugs to : ssareen [ AT ] gnome [ DOT ] org
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/sahilsareen/gnome-code-guideline-checker/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
