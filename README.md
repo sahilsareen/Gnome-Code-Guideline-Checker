@@ -1,4 +1,4 @@
-  *Currently in use by all GNOME Games 
+Currently in use by all GNOME Games 
 =======================================
 
 - This script is currently in use by GNOME libgames-support module which is a support module common to all games.
